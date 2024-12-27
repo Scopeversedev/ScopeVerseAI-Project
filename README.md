@@ -28,8 +28,8 @@ Welcome to **ScopeVerse AI**, the next frontier in cryptocurrency analysis. Our 
 ## 🚀 Getting Started
 
 To explore **ScopeVerse AI** and unlock its features:
-1. Visit the [ScopeVerse AI Website](#).
-2. Read our comprehensive documentation at [ScopeVerse AI Docs](#).
+1. Visit the [ScopeVerse AI Website](https://scopeverse.ai).
+2. Read our comprehensive documentation at [ScopeVerse AI Docs](https://docs.scopeverse.ai/).
 3. Dive into the cutting-edge tools and insights we offer to gain an edge in the crypto market.
 
 ---
@@ -42,7 +42,7 @@ To explore **ScopeVerse AI** and unlock its features:
 - Expanded AI-driven tools for smarter trading decisions.
 - More interactive capabilities with “Scope.”
 
-Stay tuned for updates, and check out our full roadmap at [ScopeVerse AI Docs](#).
+Stay tuned for updates, and check out our full roadmap at [ScopeVerse AI Docs](https://docs.scopeverse.ai/).
 
 ---
 
@@ -62,7 +62,7 @@ We’re always open to feedback and collaboration. If you have ideas or suggesti
 ## 📧 Contact Us
 
 Have questions or feedback? Reach out to us at:
-- **Website:** [ScopeVerse AI](#)
+- **Website:** [ScopeVerse AI](https://scopeverse.ai)
 
 ---
 
