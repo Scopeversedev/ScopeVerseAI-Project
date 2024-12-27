@@ -62,7 +62,6 @@ We’re always open to feedback and collaboration. If you have ideas or suggesti
 ## 📧 Contact Us
 
 Have questions or feedback? Reach out to us at:
-- **Email:** support@scopeverseai.com
 - **Website:** [ScopeVerse AI](#)
 
 ---
