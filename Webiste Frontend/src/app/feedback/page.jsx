@@ -6,7 +6,7 @@ import axios from 'axios'
 
 export default function UserFeedback() {
     const [isAdmin, setisAdmin] = useState("")
-  const adminPassword="Scope!?2891"
+  const adminPassword=""
     const [feedbackData, setfeedbackData] = useState([])
     const backendUrl = process.env.NEXT_PUBLIC_BACKEND_URL;
     
