@@ -5,7 +5,6 @@ import { useState } from 'react'
 
 export default function Dashboard() {
     const [isAdmin, setisAdmin] = useState("")
-    const adminPassword="Scope!?2891"
   return (
     <>
     
